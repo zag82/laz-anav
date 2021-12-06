@@ -20,7 +20,7 @@ aNav - navigation on settings app
 
 ### Sample data
 
-Sample data placed in file `samples/test1`
+Sample data placed in file `./test1`
 
 - password = 123
 - password for editing = 123456
